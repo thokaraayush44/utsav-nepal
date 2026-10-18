@@ -39,10 +39,7 @@ const festivals = [
     subtitle: "The festival of lights",
     description:
       "A celebration of glowing diyos, marigold garlands, colorful rangoli, and the love that connects us.",
-    image:
-      "https://images.unsplash.com/photo-1604608672516-8d5c6f7b7f0c?auto=format&fit=crop&w=1200&q=85",
-    accent: "from-amber-950/95 via-orange-950/40 to-transparent",
-    icon: "🪔",
+    image:"/images/tihar.jpg",
     greeting:
       "शुभ तिहार! May the lights of Tihar fill your home with joy, your heart with love, and your life with endless blessings.",
   },
